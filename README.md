@@ -1,6 +1,7 @@
 <h1 align="center" id="title">Luox Project Hub</h1>
 
-<p align="center"><img src="https://socialify.git.ci/luoxthedev/luoxthedev.github.io/image?font=Bitter&amp;forks=1&amp;issues=1&amp;language=1&amp;name=1&amp;owner=1&amp;pulls=1&amp;stargazers=1&amp;theme=Dark" alt="project-image"></p>
+<p align="center"><img src="https://socialify.git.ci/luoxthedev/luoxthedev.github.io/image?font=Inter&forks=1&issues=1&language=1&name=1&pattern=Solid&pulls=1&stargazers=1&theme=Dark" alt="project-image"></p>
+
 
 <p id="description">Ici vous trouverez la page de mes projets et comment y accéder.</p>
 
